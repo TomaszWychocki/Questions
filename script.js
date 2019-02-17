@@ -5,6 +5,20 @@ let questionNumber = 0;
 let currentRoundCount = 0;
 
 $(document).ready(function() {
+    firebase.initializeApp({
+        apiKey: "AIzaSyCuVgIBWEwIhY0OkLOsmtul93qNzaHi-EM",
+        authDomain: "pytania-cc953.firebaseapp.com",
+        projectId: "pytania-cc953"
+    });
+
+    var db = firebase.firestore();
+
+    db.collection("question").get().then((querySnapshot) => {
+        querySnapshot.forEach((doc) => {
+            console.log(`${doc.id} => ${doc.data().test}`);
+        });
+    });
+
     $.get('pytania.txt', function(data) {
         let lines = data.split("\n");
 
