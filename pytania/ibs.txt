@@ -1,0 +1,27 @@
+[5] Scharakteryzować architekturę klient – serwer oraz klient‐broker‐serwer.
+[7] Scharakteryzować podstawowe modele baz danych.
+[10] Scharakteryzować standardowy język zapytań do baz danych.
+[13] Wymienić metody ochrony danych w systemach baz danych.
+[14] Rola sterowników w dostępie do baz danych.
+[22] Zadania systemu zarządzania bazami danych (DBMS).
+[23] Topologie sieci komputerowych.
+[24] Podstawowe składniki sprzętowe w sieciach komputerowych.
+[28] Klasyfikacja usług internetowych.
+[30] Technologie tworzenia stron internetowych.
+[31] Czym różnią się portal i wortal internetowy.
+[35] Porównanie modeli odniesienia: ISO/OSI oraz TCP/IP.
+[36] Zadania warstwy transportowej.
+[37] Charakterystyka warstwy fizycznej.
+[38] Charakterystyka warstwy łącza danych.
+[39] Do czego służy protokół TCP, a do czego IP?
+[41] Scharakteryzować sieciowe systemy plików.
+[42] Wymień i opisz warstwy modelu OSI .
+[43] Podstawowe cechy standardów sieci bezprzewodowych WiFi.
+[45] Cechy charakterystyczne cyfrowych sieci ISDN.
+[46] Rodzaje i zastosowania macierzy dyskowych.
+[60] Scharakteryzować sieciowe systemy plików.
+[63] Co oznaczają skróty ERD oraz DFD? Do czego się ich używa?
+[82] Zasady przetwarzanie transakcji w DBMS.
+[91] Zasady i metody tworzenia indeksów w bazach danych?
+[112] Wymienić i omówić podstawowe parametry stosowane przy definiowaniu jakości usług.
+[113] Wymienić i omówić podstawowe metody szeregowania pakietów.

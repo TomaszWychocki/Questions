@@ -1,0 +1,10 @@
+[9] Porównaj metody analizy obiektowej i strukturalnej w projektowaniu systemów informatycznych.
+[35] Porównanie modeli odniesienia: ISO/OSI oraz TCP/IP.
+[36] Zadania warstwy transportowej.
+[37] Charakterystyka warstwy fizycznej.
+[38] Charakterystyka warstwy łącza danych.
+[42] Wymień i opisz warstwy modelu OSI .
+[46] Rodzaje i zastosowania macierzy dyskowych.
+[81] Metody reprezentacji wiedzy i wnioskowanie.
+[95] Wymienić i omówić znanych światowych wynalazców w dziedzinie informatyki i telekomunikacji
+[105] Omówić zasady wykonania operacji na liczbach zmiennopozycyjnych.

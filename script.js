@@ -19,7 +19,10 @@ $(document).ready(function() {
         });
     });
 
-    $.get('pytania.txt', function(data) {
+    let filename = getUrlParameter("p");
+    filename = filename === undefined ? "pytania_wszystkie.txt" : filename;
+
+    $.get("pytania/" + filename, function(data) {
         let lines = data.split("\n");
 
         $.each(lines, function(n, elem) {
@@ -105,3 +108,18 @@ function nextRound() {
     shuffle(questions);
     currentRoundCount = questions.length;
 }
+
+function getUrlParameter(sParam) {
+    let sPageURL = window.location.search.substring(1),
+        sURLVariables = sPageURL.split('&'),
+        sParameterName,
+        i;
+
+    for (i = 0; i < sURLVariables.length; i++) {
+        sParameterName = sURLVariables[i].split('=');
+
+        if (sParameterName[0] === sParam) {
+            return sParameterName[1] === undefined ? true : decodeURIComponent(sParameterName[1]);
+        }
+    }
+};

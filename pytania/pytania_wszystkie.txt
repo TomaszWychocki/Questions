@@ -1,0 +1,116 @@
+[1] Co to jest algorytm ‐ cechy i właściwości
+[2] Porównać pojęcia program, algorytm, procedura, funkcja, agent programowy.
+[3] Rodzaje zabezpieczeń systemów komputerowych
+[4] Urządzenia wejścia i wyjścia
+[5] Scharakteryzować architekturę klient – serwer oraz klient‐broker‐serwer.
+[6] Wymienić i omówić metody wdrażania systemów informatycznych.
+[7] Scharakteryzować podstawowe modele baz danych.
+[8] Czym wyróżnia się rozproszonych system informatycznych od innych.
+[9] Porównaj metody analizy obiektowej i strukturalnej w projektowaniu systemów informatycznych.
+[10] Scharakteryzować standardowy język zapytań do baz danych.
+[11] Na czym polega polimorfizm metod w programowaniu obiektowym i po co się go stosuje?
+[12] Wymienić i scharakteryzować metody testowania oprogramowania.
+[13] Wymienić metody ochrony danych w systemach baz danych.
+[14] Rola sterowników w dostępie do baz danych.
+[15] Zarządzanie procesami w systemach operacyjnych.
+[16] Co to jest system komputerowy, informacyjny, informatyczny.
+[17] Powody tworzenia systemów rozproszonych.
+[18] Środowiska programistyczne stosowane do obliczeń inżynierskich.
+[19] Rodzaje systemów operacyjnych (klasyfikacja i charakterystyka).
+[20] Podać klasyfikację języków programowania.
+[21] Paradygmaty programowania obiektowego.
+[22] Zadania systemu zarządzania bazami danych (DBMS).
+[23] Topologie sieci komputerowych.
+[24] Podstawowe składniki sprzętowe w sieciach komputerowych.
+[25] Zastosowania mikroprocesorów.
+[26] Metody kompresji danych.
+[27] Sprzętowe środki przyspieszania obliczeń.
+[28] Klasyfikacja usług internetowych.
+[29] Budowa procesora (CPU).
+[30] Technologie tworzenia stron internetowych.
+[31] Czym różnią się portal i wortal internetowy.
+[32] Przetwarzanie rozproszone – charakterystyka.
+[33] Przetwarzanie równoległe – charakterystyka.
+[34] Grafika rastrowa a grafika wektorowa.
+[35] Porównanie modeli odniesienia: ISO/OSI oraz TCP/IP.
+[36] Zadania warstwy transportowej.
+[37] Charakterystyka warstwy fizycznej.
+[38] Charakterystyka warstwy łącza danych.
+[39] Do czego służy protokół TCP, a do czego IP?
+[40] Rodzaje światłowodów ‐ wady, zalety.
+[41] Scharakteryzować sieciowe systemy plików.
+[42] Wymień i opisz warstwy modelu OSI .
+[43] Podstawowe cechy standardów sieci bezprzewodowych WiFi.
+[44] Przedstawić budowę światłowodu.
+[45] Cechy charakterystyczne cyfrowych sieci ISDN.
+[46] Rodzaje i zastosowania macierzy dyskowych.
+[47] Zasada działania systemów klastrowych.
+[48] Zasada działania systemów ekspertowych.
+[49] Omów zasadę działania monitora (CRT lub LCD).
+[50] Wymienić i scharakteryzować rodzaje pamięci półprzewodnikowych
+[51] Przedstaw tablice prawdy AND, OR, XOR, zilustruj oznaczenie bramki, wymień przykładowe zastosowanie.
+[52] Wątki a procesy ‐ na podstawie wybranego systemu. Wymienić wady, zalety.
+[53] Budowa typowego układu FPGA.
+[54] Podstawowe tryby adresowania systemów mikroprocesorowych
+[55] Hierarchia pamięci w systemie komputerowym, stronicowanie oraz koncepcja pamięci wirtualnej.
+[56] Omówić strukturę i funkcjonowanie systemu transmisyjnego.
+[57] Różnice między pamięcią statyczną i dynamiczną.
+[58] Problem synchronizacji przy transmisji danych i transmisja asynchroniczna
+[59] Uprawnienia plików na przykładzie systemu operacyjnego Unix/Linux.
+[60] Scharakteryzować sieciowe systemy plików.
+[61] Co to jest cykl życia oprogramowania i z jakich faz się składa?
+[62] Wymienić rodzaje diagramów w UML
+[63] Co oznaczają skróty ERD oraz DFD? Do czego się ich używa?
+[64] Przeciążanie funkcji i operatorów w języku C++.
+[65] Scharakteryzować instrukcje iteracyjne w przykładowym języku programowania
+[66] Omówić na czym polega przeciążanie funkcji i operatorów w języku C++.
+[67] Scharakteryzować mechanizmy dostępu do składowych klasy tworzonych statycznie i dynamicznie
+[68] Omów pojęcia agregacji i zawierania w diagramach UML.
+[69] Budowa i zasady działania wybranego urządzenia (drukarka laserowa, dysk twardy, pamięć USB, streamer, ect.)
+[70] Metody komunikacji człowiek‐komputer.
+[71] Wymienić metody ekstrakcji wiedzy z danych.
+[72] Co to są drzewa decyzyjne i do czego służą?
+[73] Rekurencja i jej implementacja w językach wysokiego poziomu
+[74] Co to są algorytmy zachłanne – podać przykład takiego algorytmu.
+[75] Na czym polega haszowanie i gdzie ma ono zastosowanie?
+[76] Co to są problemy obliczeniowo trudne – podać przykład takiego problemu.
+[77] Maszynowa reprezentacja danych
+[78] Assembler, interpreter, kompilator – porównać i wyjaśnić pojęcia.
+[79] Zarządzanie pamięcią w Unix/Linux.
+[80] Zasady korzystanie z kluczy i pakietów kryptograficznych PGP (Pretty Good Privacy)
+[81] Metody reprezentacji wiedzy i wnioskowanie.
+[82] Zasady przetwarzanie transakcji w DBMS.
+[83] Narzędzia i środowiska wytwarzania oprogramowania.
+[84] Wzorce projektowe i programowe.
+[85] Metody podnoszenia niezawodności systemów wbudowanych.
+[86] Ryzyko i odpowiedzialność związana z systemami informatycznymi
+[87] Klasyfikacja systemów oprogramowania użytkowego.
+[88] Systemy wspomagające wytwarzanie oprogramowania – klasyfikacja, przykłady, funkcje.
+[89] Wymienić i scharakteryzować podstawowe techniki w grafice komputerowej.
+[90] Wymienić i scharakteryzować metody przetwarzania obrazów.
+[91] Zasady i metody tworzenia indeksów w bazach danych?
+[92] Rodzaje i sposób działania przerzutników.
+[93] Różnica pomiędzy automatem Mealy'ego a automatem Moore'a.
+[94] Różnica pomiędzy układami typu PLA a układami PAL.
+[95] Wymienić i omówić znanych światowych wynalazców w dziedzinie informatyki i telekomunikacji
+[96] Omówić sposoby prezentacji informacji oraz pojęcia informacji analogowej i cyfrowej, sygnału analogowego oraz cyfrowego.
+[97] Zdefiniować pojęcie widma sygnału oraz omówić numeryczne metody jego obliczania.
+[98] Omówić skalę decybelewą.
+[99] Co to jest szerokości pasma oraz przepływności kanału transmisyjnego.
+[100] Omówić zagadnienie modulacji, ze szczególnym uwzględnieniem modulacji cyfrowych
+[101] Wymienić znane media transmisyjne.
+[102] Omówić problem uwierzytelniania na przykładach: uwierzytelniania SYK, uwierzytelniania SYH, uwierzytelniania SYA oraz pojęcia hasła, karty magnetycznej, karta elektronicznej, karty identyfikacyjnej SIM oraz omówić techniki biometryczne.
+[103] Formaty danych liczbowych.
+[104] Omówić zasady wykonania operacji arytmetycznych w kodzie U2.
+[105] Omówić zasady wykonania operacji na liczbach zmiennopozycyjnych.
+[106] Różnice między pamięcią statyczną i dynamiczną.
+[107] Wymienić standardowe postacie wyrażeń boolowskich.
+[108] Omówić kombinacyjne i sekwencyjne układy logiczne.
+[109] Scharakteryzować poszczególne etapy procesu konwersji analogowo‐cyfrowej.
+[110] Omówić ogólną charakterystykę filtrów w cyfrowych.
+[111] Opisać proces akwizycji i kodowania danych multimedialnych w kontekście zastosowania ich w systemach transmisji strumieniowej.
+[112] Wymienić i omówić podstawowe parametry stosowane przy definiowaniu jakości usług.
+[113] Wymienić i omówić podstawowe metody szeregowania pakietów.
+[114] Różnica między standardami JPEG i JPEG2000, rodzaje transformacji obrazu wykorzystywane w kodowaniu obrazów.
+[115] Scharakteryzować kod Graya jako przykład elementu wchodzącego w skład metod cyfrowej modulacji sygnału.
+[116] Różnica między kodami detekcyjnymi i korekcyjnymi - przykłady zastosowań.

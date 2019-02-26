@@ -1,0 +1,48 @@
+[1] Co to jest algorytm ‐ cechy i właściwości
+[2] Porównać pojęcia program, algorytm, procedura, funkcja, agent programowy.
+[7] Scharakteryzować podstawowe modele baz danych.
+[9] Porównaj metody analizy obiektowej i strukturalnej w projektowaniu systemów informatycznych.
+[12] Wymienić i scharakteryzować metody testowania oprogramowania.
+[15] Zarządzanie procesami w systemach operacyjnych.
+[16] Co to jest system komputerowy, informacyjny, informatyczny.
+[17] Powody tworzenia systemów rozproszonych.
+[19] Rodzaje systemów operacyjnych (klasyfikacja i charakterystyka).
+[20] Podać klasyfikację języków programowania.
+[21] Paradygmaty programowania obiektowego.
+[22] Zadania systemu zarządzania bazami danych (DBMS).
+[24] Podstawowe składniki sprzętowe w sieciach komputerowych.
+[26] Metody kompresji danych.
+[28] Klasyfikacja usług internetowych.
+[29] Budowa procesora (CPU).
+[35] Porównanie modeli odniesienia: ISO/OSI oraz TCP/IP.
+[36] Zadania warstwy transportowej.
+[37] Charakterystyka warstwy fizycznej.
+[38] Charakterystyka warstwy łącza danych.
+[39] Do czego służy protokół TCP, a do czego IP?
+[41] Scharakteryzować sieciowe systemy plików.
+[42] Wymień i opisz warstwy modelu OSI .
+[43] Podstawowe cechy standardów sieci bezprzewodowych WiFi.
+[44] Przedstawić budowę światłowodu.
+[45] Cechy charakterystyczne cyfrowych sieci ISDN.
+[46] Rodzaje i zastosowania macierzy dyskowych.
+[47] Zasada działania systemów klastrowych.
+[48] Zasada działania systemów ekspertowych.
+[52] Wątki a procesy ‐ na podstawie wybranego systemu. Wymienić wady, zalety.
+[54] Podstawowe tryby adresowania systemów mikroprocesorowych
+[60] Scharakteryzować sieciowe systemy plików.
+[62] Wymienić rodzaje diagramów w UML
+[70] Metody komunikacji człowiek‐komputer.
+[81] Metody reprezentacji wiedzy i wnioskowanie.
+[84] Wzorce projektowe i programowe.
+[88] Systemy wspomagające wytwarzanie oprogramowania – klasyfikacja, przykłady, funkcje.
+[89] Wymienić i scharakteryzować podstawowe techniki w grafice komputerowej.
+[90] Wymienić i scharakteryzować metody przetwarzania obrazów.
+[91] Zasady i metody tworzenia indeksów w bazach danych?
+[95] Wymienić i omówić znanych światowych wynalazców w dziedzinie informatyki i telekomunikacji
+[97] Zdefiniować pojęcie widma sygnału oraz omówić numeryczne metody jego obliczania.
+[98] Omówić skalę decybelewą.
+[105] Omówić zasady wykonania operacji na liczbach zmiennopozycyjnych.
+[107] Wymienić standardowe postacie wyrażeń boolowskich.
+[110] Omówić ogólną charakterystykę filtrów w cyfrowych.
+[113] Wymienić i omówić podstawowe metody szeregowania pakietów.
+[114] Różnica między standardami JPEG i JPEG2000, rodzaje transformacji obrazu wykorzystywane w kodowaniu obrazów.
